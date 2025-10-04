@@ -1,1 +1,2 @@
-Name: {Szymon Neznal}
+Name: Szymon Neznal
+University: PJATK
